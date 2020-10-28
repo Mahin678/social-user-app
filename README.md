@@ -1,15 +1,8 @@
-# Volunteer network s Service Management Web Application Server
+# Simple social budy React  Web Application 
 
 
 ## Features
-
-Volunteer networkis Fully Responsive web app.This site have admin and user panel.
-### In this server using database : 
-  -Image Upload with base24
-  - Insertion operation 
-  - Deleiting operation
-  - Quarry operation
-  - geting all data
+This is an simple React application. In application using by rendom user api . 
   - 
 ### Technology Used 
 -  React js 
